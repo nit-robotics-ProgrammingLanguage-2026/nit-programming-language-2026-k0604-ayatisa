@@ -5,7 +5,7 @@ int main(void) {
     long total_sum = 0;
 
     // 入力値を受け取る
-    scanf("%d", &max_limit);
+    scanf("%d", &max_limit);     
 
     // 負の値が入力された場合はエラーとして "NG" を出力して終了する
     if (max_limit < 0) {
