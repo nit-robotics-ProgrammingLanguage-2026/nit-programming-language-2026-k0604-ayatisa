@@ -31,5 +31,5 @@ int main(void) {
     // 計算された総和を出力する
     printf("%ld", total_sum);
 
-    return 0;
+    return 0; 
 }
